@@ -6,7 +6,7 @@ Still developing.....
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,css,cpp,dart,git,py,r,angular,java,boostrap,mysql)](https://github.com/AlfinhiHD/)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,redux,css,bootstrapcpp,dart,git,py,r,angular,java,mysql)](https://github.com/AlfinhiHD/)
 
 ###  📋 Stats
 
