@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-**AlfinhiHD/AlfinhiHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
-
 **Alfinhi Hajid Dhia** | **Yogyakarta, Indonesia**
 
 Still developing.....
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,css,c++,phyton,mathlab,java,boostrap,mysql)](https://github.com/AlfinhiHD/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,css,cpp,dart,git,py,r,angular,java,boostrap,mysql)](https://github.com/AlfinhiHD/)
+
+[![The most important is](https://skillicons.dev/icons?i=stackoverflow)](https://github.com/AlfinhiHD/)
 
 ###  📋 Stats
 
