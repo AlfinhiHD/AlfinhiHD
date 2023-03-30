@@ -8,8 +8,6 @@ Still developing.....
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,css,cpp,dart,git,py,r,angular,java,boostrap,mysql)](https://github.com/AlfinhiHD/)
 
-[![The most important is](https://skillicons.dev/icons?i=stackoverflow)](https://github.com/AlfinhiHD/)
-
 ###  📋 Stats
 
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=AlfinhiHD&theme=material-palenight&compact=true&layout=compact)](https://github.com/AlfinhiHD/)
