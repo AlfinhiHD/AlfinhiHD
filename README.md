@@ -2,7 +2,7 @@
 
 **Alfinhi Hajid Dhia** | **Yogyakarta, Indonesia**
 
-Still developing.................................
+Still developing
 
 ###  💻 Tech Stack:
 
